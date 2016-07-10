@@ -1,0 +1,7 @@
+This course is separated into three parts:
+
+1. Operating Systems
+
+2. Theory of computation
+
+3. Networking
