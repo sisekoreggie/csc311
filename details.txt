@@ -3,5 +3,6 @@ This course is separated into three parts:
 1. Operating Systems
 
 2. Theory of computation
+   -Lecture: Reg Dodds
 
 3. Networking
